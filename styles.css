@@ -1,0 +1,12 @@
+ html{
+     text-align: center; 
+     background-color:gold;
+}
+button{
+    width:400px;
+    color:red;
+    height:30px;
+    font-size: 25px;
+    background-color:blue; 
+     text-align: center;
+}
